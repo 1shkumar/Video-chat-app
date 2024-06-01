@@ -1,0 +1,10 @@
+#video-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+video {
+    width: 400px;
+    height: 300px;
+    margin: 5px;
+}
